@@ -1,0 +1,47 @@
+Trading Strategy Results
+************************
+
+Buy signal for NVDA on 2023-09-15: Bought 1000 shares at $43.90
+Buy signal for INTC on 2023-09-19: Bought 1000 shares at $36.34
+Buy signal for NIO on 2023-09-19: Bought 1000 shares at $8.55
+Sell signal for INTC on 2023-10-10: Sold 1000 shares at $36.43
+Profit from the trade: $90.00
+Buy signal for INND on 2023-10-10: Bought 1000 shares at $1.38
+Sell signal for NVDA on 2023-10-11: Sold 1000 shares at $46.81
+Profit from the trade: $2906.00
+Buy signal for TSLA on 2023-10-20: Bought 1000 shares at $211.99
+Buy signal for INTC on 2023-10-26: Bought 1000 shares at $32.52
+Buy signal for NVDA on 2023-10-31: Bought 1000 shares at $40.78
+Sell signal for NVDA on 2023-11-09: Sold 1000 shares at $46.95
+Profit from the trade: $6170.00
+Sell signal for INTC on 2023-11-10: Sold 1000 shares at $38.86
+Profit from the trade: $6340.00
+Sell signal for TSLA on 2023-11-15: Sold 1000 shares at $242.84
+Profit from the trade: $30849.99
+Sell signal for NIO on 2023-12-19: Sold 1000 shares at $8.82
+Profit from the trade: $270.00
+Buy signal for TSLA on 2024-01-12: Bought 1000 shares at $218.89
+Buy signal for NIO on 2024-01-16: Bought 1000 shares at $6.55
+Buy signal for INTC on 2024-01-17: Bought 1000 shares at $46.06
+Buy signal for NVDA on 2024-04-19: Bought 1000 shares at $76.20
+Sell signal for NIO on 2024-05-02: Sold 1000 shares at $5.59
+Profit from the trade: $-960.00
+Sell signal for NVDA on 2024-05-14: Sold 1000 shares at $91.36
+Profit from the trade: $15156.01
+Buy signal for NIO on 2024-06-20: Bought 1000 shares at $4.33
+Sell signal for TSLA on 2024-07-01: Sold 1000 shares at $209.86
+Profit from the trade: $-9030.00
+Sell signal for INTC on 2024-07-08: Sold 1000 shares at $33.99
+Profit from the trade: $-12070.00
+Buy signal for INTC on 2024-07-29: Bought 1000 shares at $30.83
+Buy signal for NVDA on 2024-07-30: Bought 1000 shares at $103.73
+Buy signal for TSLA on 2024-08-05: Bought 1000 shares at $198.88
+Sell signal for NVDA on 2024-08-23: Sold 1000 shares at $129.37
+Profit from the trade: $25639.99
+Sell signal for NIO on 2024-09-05: Sold 1000 shares at $4.85
+Profit from the trade: $520.00
+No sell signal found for INTC after the last buy signal.
+No sell signal found for TSLA after the last buy signal.
+No sell signal found for INND after the last buy signal.
+
+Total Profit: $65881.99
